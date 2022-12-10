@@ -1,0 +1,21 @@
+.sec-sing{
+    background-color: #8f4962 !important;
+} 
+span{
+    color: #ffb3ce !important;
+}
+.card2{
+    box-shadow:  0px 9px 40px grey;
+}
+.box{
+    background-color: #8f4962 !important;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.btn{
+    background-color:#8f4962 !important ;
+   border-color: #8f4962;
+   color: antiquewhite;
+}
